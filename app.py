@@ -1,4 +1,4 @@
 print("app started")
 
 
-print("health check")
+print("health chack")
